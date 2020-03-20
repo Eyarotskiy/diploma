@@ -30,7 +30,7 @@ a {
   background-blend-mode: multiply, screen;
 }
 
-.wrapper {
+.link {
   align-items: center;
   justify-content: center;
   display: flex;
@@ -39,7 +39,7 @@ a {
   cursor: pointer;
 }
 
-.wrapper:hover {
+.link:hover {
   background:
     linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%),
     radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);
